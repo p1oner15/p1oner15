@@ -55,7 +55,7 @@ contact:    t.me/snowment20
 ## 💼 Experience
 
 **WineChef** · *QA Automation Engineer* · Jan 2026 – present
-> Web app with AI features (US market). Built Playwright (TS) UI automation from scratch with **Page Object Model**, API test helpers, retry logic and Allure reporting. Reduced flaky tests from **~15% → ~3%**, cut regression time by **30–40%**.
+> Working on a web app with AI features (US market). Building and maintaining UI automation with **Playwright (TypeScript)** using Page Object Model. Developing API test helpers, retry mechanisms and Allure reporting. Covering key user flows and AI functionality, improving test stability and maintainability.
 
 **Sber** · *QA Engineer* · Aug 2024 – Jan 2026
 > Electronic document management system (Sber ↔ Central Bank of Russia). Backend & API testing (REST, Kafka), 250+ test cases, 60+ defects documented. Log analysis via OpenShift. Reduced flaky tests from **~20% → ~5%**.
