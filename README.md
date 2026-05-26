@@ -86,6 +86,16 @@ contact:    t.me/snowment20
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p1oner15/p1oner15/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p1oner15/p1oner15/output/dist/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/p1oner15/p1oner15/output/dist/snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 🚀 Projects
