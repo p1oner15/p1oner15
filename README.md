@@ -42,6 +42,9 @@
 
 ### 💼 Experience
 
+**Sber** — QA Automation Engineer · *Jul 2026 – Present*
+- Functional and integration testing, Java UI test automation, and release regression.
+
 **Winespot.ai** — QA Automation Engineer · *Jan 2026 – Jul 2026* · Remote (US)
 AI customer-support platform for wineries (Go, React, PostgreSQL/pgvector, OpenAI, Kubernetes).
 - Joined as the first QA engineer and set up pre-release regression and post-release smoke checks.
@@ -83,7 +86,7 @@ GitHub awarded the **Pull Shark** achievement for merged pull requests.
 
 ### 📊 GitHub Stats
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1oner15&show_icons=true&hide_border=true&theme=default)
+[Contribution activity](https://github.com/p1oner15?tab=overview) · [Public repositories](https://github.com/p1oner15?tab=repositories) · [Merged pull requests](https://github.com/search?q=author%3Ap1oner15+is%3Apr+is%3Amerged&type=pullrequests)
 
 ---
 
