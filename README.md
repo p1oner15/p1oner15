@@ -24,10 +24,19 @@
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-FF4757?style=flat&logo=qameta&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+![Allure Report](https://img.shields.io/badge/Allure_Report-FF4757?style=flat)
+![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-FF4757?style=flat)
+![ReportPortal](https://img.shields.io/badge/ReportPortal-273B55?style=flat)
+
+![Test IT](https://img.shields.io/badge/Test_IT-365FBE?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray-4554A5?style=flat)
+![Zephyr](https://img.shields.io/badge/Zephyr-26705E?style=flat)
 
 ---
 
