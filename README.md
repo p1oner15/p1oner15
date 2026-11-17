@@ -46,6 +46,7 @@
 - Design and run functional and integration tests for web applications and REST APIs. Write test cases and track defects.
 - Maintain Java UI tests with Selenium, Selenide, and TestNG. Update selectors after frontend changes and investigate failed runs.
 - Audited test coverage and found tests excluded from scheduled runs and tests without assertions.
+- Automated test case drafting with an AI model and added validation checks to catch steps unsupported by the requirements.
 - Run regression suites in Jenkins before releases and help investigate production issues using logs.
 
 **Winespot.ai** — QA Automation Engineer · *Jan 2026 – Jul 2026* · Remote (US)
