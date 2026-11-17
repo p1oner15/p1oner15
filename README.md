@@ -1,14 +1,65 @@
-# Hi, I'm Alexander Tishchenko
+# Hi, I'm Alexander Tishchenko 👋
 
-I'm a QA Automation Engineer with 4+ years in QA. I build automated tests for web apps, APIs, and LLM features.
+**QA Automation Engineer** with **4+ years** across web, backend, and AI-driven products — focused on **test automation** and **AI/LLM testing**.
 
-- **Web:** As the first QA engineer at a product startup, I built a Playwright end-to-end suite from scratch and set up GitHub Actions to run it. I also tested listings, search, and booking for a short-term rental marketplace.
-- **API:** I automate REST API checks with Java and REST Assured, use Postman to explore endpoints, and verify data with SQL.
-- **AI/LLM:** I've tested chatbot conversations, retrieval-augmented generation (RAG), and prompt and response behavior. I also wrote a small set of AI checks in Python.
+🧪 Dual automation stack: **Playwright (TS/JS)** + **Java (Selenium/Selenide)**
+⚙️ Strong backend foundation: **REST API · Apache Kafka · SQL/PostgreSQL · CI/CD**
+🤖 AI/LLM testing: conversational flows, RAG, prompt/response validation
+🌍 Open to **remote** roles and **relocation (China / APAC)** · English B2
+
+---
+
+### 🛠 Tech Stack
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF4757?style=flat&logo=qameta&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 💼 Experience
+
+**Winespot.ai** — QA Automation Engineer · *Jan 2026 – Jul 2026* · Remote (US)
+AI customer-support platform for wineries (Go, React, PostgreSQL/pgvector, OpenAI, Kubernetes).
+- Joined as the first QA engineer and set up pre-release regression and post-release smoke checks.
+- Built a Playwright end-to-end framework from scratch (JavaScript, Page Object Model). Set up GitHub Actions and Allure reporting, and ran load tests with k6.
+- Tested conversations, RAG, and prompt and response quality. Wrote a small set of automated AI checks in Python.
+- Cut the CI regression runtime by **32%**, from 5m 33s to 3m 46s.
+
+**Sber** — QA Engineer · *Aug 2024 – Jan 2026* · Moscow
+Regulatory-reporting service to the Central Bank of Russia (REST, Kafka, PostgreSQL).
+- Grew from Manual QA into automation; 1+ year of Java automated tests (REST Assured, Selenium/Selenide)
+- REST API + async Kafka testing; SQL validation; OpenShift log analysis
+- Impact: 250+ test cases, 60+ defects
+
+**Arivi** — QA Engineer · *Jul 2022 – Jul 2024* · Moscow
+P2P daily-rental platform (25,000+ listings).
+- Functional, regression & exploratory testing for search, listings, and booking; REST API (Postman); SQL validation
+- Impact: 150+ scenarios → **~95%** coverage of key flows
+
+---
+
+### Personal projects
 
 I use Claude Code and Codex to write and migrate automated tests and develop features. I also make browser and PC games and use Playwright to test the browser games.
 
 **Code sample:** [Angular Todo QA demo](https://github.com/p1oner15/angular-todo-aqa) · Playwright tests in TypeScript for UI flows and API edge cases.
+
+---
 
 ### Open source
 
@@ -19,4 +70,16 @@ Two audio fixes merged into [Bruce Firmware](https://github.com/BruceDevices/fir
 
 GitHub awarded the **Pull Shark** achievement for merged pull requests.
 
-[Email](mailto:romatixo20@gmail.com) · [Telegram](https://t.me/snowment20) · [LinkedIn](https://www.linkedin.com/in/alexandertishchenko-qa)
+---
+
+### 📊 GitHub Stats
+
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1oner15&show_icons=true&hide_border=true&theme=default)
+
+---
+
+### 📫 Connect
+
+[![Email](https://img.shields.io/badge/Email-romatixo20@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:romatixo20@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@snowment20-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/snowment20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandertishchenko-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandertishchenko-qa)
