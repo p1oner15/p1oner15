@@ -10,4 +10,13 @@ I use Claude Code and Codex to write and migrate automated tests and develop fea
 
 **Code sample:** [Angular Todo QA demo](https://github.com/p1oner15/angular-todo-aqa) · Playwright tests in TypeScript for UI flows and API edge cases.
 
+### Open source
+
+Two audio fixes merged into [Bruce Firmware](https://github.com/BruceDevices/firmware). I verified both on a LilyGO T-Embed CC1101 Plus.
+
+- [PR #2966](https://github.com/BruceDevices/firmware/pull/2966) restored short beeps and fixed longer tones being cut off.
+- [PR #2965](https://github.com/BruceDevices/firmware/pull/2965) fixed non-blocking playback for JavaScript `audio.tone()`.
+
+GitHub awarded the **Pull Shark** achievement for merged pull requests.
+
 [Email](mailto:romatixo20@gmail.com) · [Telegram](https://t.me/snowment20) · [LinkedIn](https://www.linkedin.com/in/alexandertishchenko-qa)
