@@ -43,7 +43,10 @@
 ### 💼 Experience
 
 **Sber** — QA Automation Engineer · *Jul 2026 – Present*
-- Functional and integration testing, Java UI test automation, and release regression.
+- Design and run functional and integration tests for web applications and REST APIs. Write test cases and track defects.
+- Maintain Java UI tests with Selenium, Selenide, and TestNG. Update selectors after frontend changes and investigate failed runs.
+- Audited test coverage and found tests excluded from scheduled runs and tests without assertions.
+- Run regression suites in Jenkins before releases and help investigate production issues using logs.
 
 **Winespot.ai** — QA Automation Engineer · *Jan 2026 – Jul 2026* · Remote (US)
 AI customer-support platform for wineries (Go, React, PostgreSQL/pgvector, OpenAI, Kubernetes).
